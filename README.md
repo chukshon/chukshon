@@ -1,7 +1,6 @@
 
 ### Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/chukshon.svg?style=social&label=Followers)](https://github.com/chukshon?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chukshon!;I'm+a+Javascript+Developer...)](https://git.io/typing-svg)
 
