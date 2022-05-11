@@ -17,15 +17,14 @@ or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
- - 🔭 I’m currently working in <a href="www.decagon.com">Decagon</a>
- - 🌱 I've 2+ years of professional experience on javascript
+ - 🔭 I’m currently working in <a href="www.decagon.com">Decagon</a> as a web developer
+ - 🌱 I have 2+ years of professional experience on javascript
  - 🌱 I’m currently learning Node, express, react, nextjs, typescript
- - 👯 I’m looking to collaborate on React, Node and Deep Learning Projects
+ - 👯 I’m looking to collaborate on Web development and Open Source Projects.
  - 💬 Ask me about react hooks, node, css, typescript...
- - ⚡ Fun fact: I love playing fifa
+ - 😀 Fun fact: I love playing fifa🎮
   
-  
-  
+ 
 ## 🛠️ Technologies
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
