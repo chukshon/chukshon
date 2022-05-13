@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chukshon!;I'm+a+Javascript+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chukshon!;I'm+a+FullStack-Javascript+Dev...)](https://git.io/typing-svg)
 
 <div align="center">
 
