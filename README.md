@@ -17,9 +17,9 @@ or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
- - 🔭 I’m currently working in <a href="www.decagon.com">Decagon</a> as a web developer
- - 🌱 I have 2+ years of professional experience on javascript
- - 🌱 I’m currently learning Node, express, react, nextjs, typescript
+ - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a web developer
+ - 🌱 I have 3+ years of professional experience on javascript
+ - 🌱 I’m currently working with Node, express, reactJs, nextjs, typescript
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
  - 💬 Ask me about react hooks, node, css, typescript...
  - 😀 Fun fact: I love playing fifa🎮
