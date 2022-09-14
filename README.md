@@ -15,7 +15,7 @@ or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
- - 🔭 I’m currently working at <a href="https://www.accessbankplc.com/">Access Bank</a> as a web developer
+ - 🔭 I’m currently working at <a href="https://www.accessbankplc.com/">Access Bank</a> as a Fullstack developer
  - 🌱 I have 3+ years of professional experience working majorly with typescript and react. I also work with vue and angular
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
  - 💬 Ask me about react, css, typescript...
