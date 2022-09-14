@@ -15,11 +15,10 @@ or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
- - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a web developer
- - 🌱 I have 3+ years of professional experience on javascript
- - 🌱 I’m currently working with Node, express, reactJs, nextjs, typescript
+ - 🔭 I’m currently working at <a href="https://www.accessbankplc.com/">Access Bank</a> as a web developer
+ - 🌱 I have 3+ years of professional experience working majorly with typescript and react. I also work with vue and angular
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
- - 💬 Ask me about react hooks, node, css, typescript...
+ - 💬 Ask me about react, css, typescript...
  - 😀 Fun fact: I love playing fifa🎮
   
  
