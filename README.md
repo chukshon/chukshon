@@ -1,5 +1,3 @@
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Chukshon!;I'm+a+Frontend+Dev...)](https://git.io/typing-svg)
 
 <div align="center">
@@ -15,13 +13,13 @@ or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
 
 <h2> About Me </h2>
 
- - 🌱 I have 3+ years of professional experience working majorly with typescript and react. I also work with vue and angular
- - 👯 I’m looking to collaborate on Web development and Open Source Projects.
- - 💬 Ask me about react, css, typescript...
- - 😀 Fun fact: I love playing fifa🎮
-  
- 
+- 🌱 I have 5 years of professional experience working majorly with typescript and react. I also work with vue and angular
+- 👯 I’m looking to collaborate on Web development.
+- 💬 Ask me about react, css, typescript...
+- 😀 Fun fact: I love playing fifa🎮
+
 ## 🛠️ Technologies
+
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -45,16 +43,12 @@ or <a href="mailto:chukwukahonour@gmail.com"><b>email</b></a> me
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 <p>
- 
- 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
  <p><a href="https://www.github.com/chukshon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chukwukahonour/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@chukwukahonour" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href = 'https://chukshondev.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://chukshondev.netlify.app/'> <img width = '32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 </p>
 
+---
 
-  
-
------
 Credits: [Chukwuka Honour](https://github.com/chukshon)
