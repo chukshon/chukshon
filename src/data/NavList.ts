@@ -1,18 +1,18 @@
-const Navlist = [
+export const NavlistData = [
   {
     label: "Home",
-    Value: "Home",
+    value: "/",
   },
   {
-    label: "Home",
-    Value: "Home",
+    label: "Projects",
+    value: "projects",
   },
   {
-    label: "Home",
-    Value: "Home",
+    label: "Articles",
+    value: "articles",
   },
   {
-    label: "Home",
-    Value: "Home",
+    label: "Contact",
+    value: "contact",
   },
 ];
