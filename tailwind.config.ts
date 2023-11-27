@@ -91,6 +91,10 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        lalia: ["var(--font-laila)"],
+        space_grotesk: ["var(--font-space_grotesk)"],
+      },
     },
     boxShadow: {
       default: "0px 0px 10px rgba(0, 0, 0, 0.1)",
