@@ -5,14 +5,14 @@ export const NavlistData = [
   },
   {
     label: "Projects",
-    value: "projects",
+    value: "/projects",
   },
   {
     label: "Articles",
-    value: "articles",
+    value: "/articles",
   },
   {
     label: "Contact",
-    value: "contact",
+    value: "/contact",
   },
 ];
