@@ -21,11 +21,11 @@ const Header = () => {
           return <NavLink key={index} label={item.label} value={item.value} />;
         })}
       </ul>
-       <button type="button" onClick={() => setIsNavOpen(true)} className="py-[10px]">
-      <AlignRight size={40} strokeWidth={1.7} />
-    </button>
+      <button type="button" onClick={() => setIsNavOpen(true)} className="py-[10px]">
+        <AlignRight size={40} strokeWidth={1.7} />
+      </button>
       <NavMenu setIsNavOpen={setIsNavOpen} isNavOpen={isNavOpen} />
-    
+
     </header>
   );
 };
