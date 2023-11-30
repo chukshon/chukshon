@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const ArrowText = ({ text }: { text: string }) => {
     return (
-        <div className="flex gap-[30px] items-start">
+        <div className=" flex gap-[30px] items-start">
             <Image
                 className=""
                 src="/images/arrow-right.svg"
@@ -13,7 +13,7 @@ const ArrowText = ({ text }: { text: string }) => {
                 width={40}
                 height={40}
             />
-            <h1 className="text-[45px] font-[500] leading-[40px]">{text}</h1>
+            <h1 className="text-[40px] font-[500] leading-[40px] font-space_grotesk">{text}</h1>
         </div>
     )
 }

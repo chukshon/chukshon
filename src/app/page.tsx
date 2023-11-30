@@ -1,16 +1,18 @@
 import Footer from "@/components/Layouts/Footer";
 import Header from "@/components/Layouts/Header/Header";
-import About from "@/segments/home/About";
-import Hero from "@/segments/home/Hero";
-import Image from "next/image";
+import AboutSegment from "@/segments/home/AboutSegment";
+import HeroSegment from "@/segments/home/HeroSegment";
+import ExperienceSegment from "@/segments/home/ExperienceSegment";
+
 
 
 export default function Home() {
   return (
     <main className="h-[100vh]">
       <Header />
-      <Hero />
-      <About />
+      <HeroSegment />
+      <AboutSegment />
+      <ExperienceSegment />
     </main>
   );
 }

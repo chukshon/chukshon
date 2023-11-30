@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 
-const Hero = () => {
+const HeroSegment = () => {
   return (
     <div className="flex flex-col gap-[20px] pt-[40px]  pb-[100px] md:pt-[120px] items-center relative px-[20px] border-b-[1px] border-b-neutral-300 py-[20px]">
       <Image
@@ -67,4 +67,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default HeroSegment;

@@ -6,7 +6,7 @@
 @layer components {
 
   .container {
-    @apply max-w-[1330px]
+    @apply max-w-[1530px] mx-auto
   }
   /* primary (black) button */
   .btn-base {
