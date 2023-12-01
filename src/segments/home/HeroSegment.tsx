@@ -44,7 +44,7 @@ const HeroSegment = () => {
           height={20}
         />
         <Image
-          className="h-[400px] w-[400px] grayscale md:h-[500px] md:w-[500px] object-cover rounded-[10px]"
+          className="h-[400px] w-[400px]  md:h-[500px] md:w-[500px] object-cover rounded-[10px]"
           src="/images/Honour.png"
           alt="star icon"
           width={500}

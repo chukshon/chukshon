@@ -5,6 +5,7 @@ import HeroSegment from "@/segments/home/HeroSegment";
 import ExperienceSegment from "@/segments/home/ExperienceSegment";
 import TechStackSegment from "@/segments/home/TechStackSegment";
 import EndorsementSegment from "@/segments/home/EndorsementSegment";
+import LoveDoingSegment from "@/segments/home/LoveDoingSegment";
 
 
 
@@ -16,6 +17,7 @@ export default function Home() {
       <AboutSegment />
       <ExperienceSegment />
       <TechStackSegment />
+      <LoveDoingSegment />
       {/* <EndorsementSegment /> */}
       <Footer />
     </main>

@@ -8,11 +8,7 @@ const Projects = () => {
   return (
     <main>
       <Header />
-      <div className="flex flex-col text-purple-400">
-
-        <div>first</div>
-        <div>second</div>
-      </div>
+      <Footer />
     </main>
   );
 };
