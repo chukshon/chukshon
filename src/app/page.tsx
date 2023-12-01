@@ -3,6 +3,7 @@ import Header from "@/components/Layouts/Header/Header";
 import AboutSegment from "@/segments/home/AboutSegment";
 import HeroSegment from "@/segments/home/HeroSegment";
 import ExperienceSegment from "@/segments/home/ExperienceSegment";
+import TechStackSegment from "@/segments/home/TechStackSegment";
 
 
 
@@ -13,6 +14,7 @@ export default function Home() {
       <HeroSegment />
       <AboutSegment />
       <ExperienceSegment />
+      <TechStackSegment />
     </main>
   );
 }
