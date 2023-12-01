@@ -3,6 +3,9 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Laila } from "next/font/google";
 import { Space_Grotesk } from "next/font/google";
+import Footer from "@/components/Layouts/Footer";
+import Header from "@/components/Layouts/Header/Header";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -32,7 +35,9 @@ export default function RootLayout({
       <body
         className={`${inter.className} ${laila.className} ${space_grotesk.className}`}
       >
+        <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );

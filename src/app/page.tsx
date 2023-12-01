@@ -12,14 +12,13 @@ import LoveDoingSegment from "@/segments/home/LoveDoingSegment";
 export default function Home() {
   return (
     <main className="h-[100vh]">
-      <Header />
       <HeroSegment />
       <AboutSegment />
       <ExperienceSegment />
       <TechStackSegment />
       <LoveDoingSegment />
       {/* <EndorsementSegment /> */}
-      <Footer />
+
     </main>
   );
 }

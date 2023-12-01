@@ -1,8 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 "use client";
 import React from "react";
-import Footer from "@/components/Layouts/Footer";
-import Header from "@/components/Layouts/Header/Header";
 import About from "@/segments/home/AboutSegment";
 import PageHeader from "@/components/PageHeader";
 import ProjectCard from "@/components/ProjectCard";
@@ -54,7 +52,6 @@ const Projects = () => {
   ]
   return (
     <main>
-      <Header />
       <PageHeader title="Projects" />
       <p className="text-center font-[300]">At CreativeHub, we're more than just a team of experts. We're your partners <br />in bringing your ideas to life. Whether you're launching a startup, rebranding, or </p>
       {/* Tabs */}
@@ -73,7 +70,6 @@ const Projects = () => {
           return <ProjectCard key={index} />
         })}
       </ul>
-      <Footer />
     </main>
   );
 };
