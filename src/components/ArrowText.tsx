@@ -13,7 +13,7 @@ const ArrowText = ({ text }: { text: string }) => {
                 width={40}
                 height={40}
             />
-            <h1 className="text-[40px] font-[500] leading-[40px] font-space_grotesk">{text}</h1>
+            <h1 className="text-[40px] font-[500] leading-[40px] font-space_grotesk w-[max-content]">{text}</h1>
         </div>
     )
 }
